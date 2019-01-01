@@ -1,3 +1,6 @@
-from PIL import Image
+import tkinter
+top = tkinter.Tk()
+top.mainloop()
 
-Image.open('Poker/cards/6s.png')
+
+# help("modules")
